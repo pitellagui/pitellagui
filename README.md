@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a passionate student of Petroleum Engineering
 
 ### 📚 **Languages & Tools**
 - Python
-- MATLAB
+- C#
 - Latek
 - JavaScript
 - HTML
